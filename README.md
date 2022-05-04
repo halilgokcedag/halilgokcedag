@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @halilgokcedag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud and DevOps projects.
+- 🌱 I’m currently learning Kubernetes Security, AWS CI/CD, Azure and Go.
+- 💞️ I’m looking to collaborate on Cloud and DevOps areas.
 - 📫 How to reach me : you can find me on LinkedIn and Instagram.
 
 <!---
